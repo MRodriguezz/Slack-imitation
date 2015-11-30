@@ -1,0 +1,16 @@
+body {
+	margin-top: 100px;
+}
+#stylebox {
+	height: 300px;
+	width: 450px;
+	margin: 50px auto;
+	border-radius: 10px;
+}
+.btn {
+	font-size: 20px;
+	height: 40px;
+	width: 300px;
+	margin-top: 15px;
+	margin-left: 15px;
+}

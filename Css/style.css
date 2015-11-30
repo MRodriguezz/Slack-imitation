@@ -1,0 +1,21 @@
+body {
+	background-image: url('../Images/planeta.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.iconPage {
+	width: 200px;
+	height: 200px;
+	margin-top: -5%;	
+}
+.box {
+	margin-left: 50%;
+	margin-top: 10%;
+}
+.border{
+	margin-left: 30%;
+	border: 2px;
+	border-radius: 10px;
+	border-style: solid;
+	border-color: #ccc;
+}
